@@ -82,7 +82,7 @@ public class Tela extends javax.swing.JFrame implements MouseListener, KeyListen
         this.addElemento(cC);*/
         
         cel = new EmpuraDireita("coracao.png");
-        cel.setPosicao(4, 2);
+        cel.setPosicao(8, 2);
         this.addElemento(cel);
      
     }
